@@ -4,7 +4,7 @@
 在混乱与创造的碰撞中，书写专属于中文玩家的服务器史诗。
 ---
 ### · 服务器联络与登记
-- 腐竹联系方式：nyao-zhouyi@outlook.com
+- 腐竹联系方式：yao-zhouyi@outlook.com
 - Discord社群：https://discord.gg/HS9SNydBr
 - 官方QQ群：1055841565
 - 入服问卷：https://forms.office.com/r/hQMY4RDZca
@@ -13,5 +13,5 @@
 ### · 服务器信息
 - 服务器种子：7702650258439669470
 - 主服：2b2tCN | IP：2b2tCN.cc.cd
-- 支服：noxiao | IP：noxia o.2b2tCN.cc.cd
-- 推广服：XTTMC | IP：MC.XTT.us.ci
+- 支服：noxiao | IP：noxiao.2b2tCN.cc.cd
+- 推广服：XTTMC | IP：xttmc.top
