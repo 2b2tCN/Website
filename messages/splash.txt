@@ -1,2 +1,6 @@
-[INFO/ERROR]:Hi! {"placeholder":"playername"}
-666! {"placeholder":"playername"}
+Hi! {"placeholder":"playername"}
+2b2tCN 1.21.11!
+我要加插件！
+哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+终于做出测试版了
+github.com/2b2tCN
