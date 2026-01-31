@@ -1,1 +1,2 @@
-Hi!{"placeholder":"playername"}
+Hi! {"placeholder":"playername"}
+666! {"placeholder":"playername"}
