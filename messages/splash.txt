@@ -1,2 +1,2 @@
-Hi! {"placeholder":"playername"}
+[INFO/ERROR]:Hi! {"placeholder":"playername"}
 666! {"placeholder":"playername"}
