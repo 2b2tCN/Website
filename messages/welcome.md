@@ -8,7 +8,7 @@
 - Discord社群：https://discord.gg/HS9SNydBr
 - 官方QQ群：1055841565
 - 入服问卷：https://forms.office.com/r/hQMY4RDZca
-- 服务器论坛：https://forum.2b2tcn.cc.cd
+- 服务器论坛：https://2b2tcnforum.2b2tcn.cc.cd
 
 ### · 服务器信息
 - 服务器种子：7702650258439669470
